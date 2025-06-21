@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active{
+    background-color: rgb(108, 172, 192);
+}
+img{
+    width: 400px;
+    height: 250px;
+}
